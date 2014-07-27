@@ -71,7 +71,7 @@ The algorithm for preparing the data is called run_analysis.R.  This algorithm i
    Loads the data.  First paragraph loads the activity and feature labels.  
    Second paragraph loads the test data and relabels the activities with text labels.
    Third paragraph load the train data and relabels the activities with text labels.
-#####3)Extract Data
+#####3) Extract Data
    Extracts the specific data for this data set using the column numbers for the appropriate variables.
 #####4) Reshape Data
    Reshapes the data and creates tidy data form and then writes the output file
