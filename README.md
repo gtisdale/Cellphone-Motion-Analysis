@@ -1,5 +1,4 @@
-###Mean and Standard Deviation Extraction for Human Activity Recognition Using Smartphones Dataset
-###Version 1.0
+###Mean and Standard Deviation Extraction for Human Activity Recognition Using Smartphones Dataset - Version 1.0
   
 #### OVERVIEW
 The original experiments for this data set were conducted at the Non Linear Complex Systems Laboatory of DITEN - Universita degli Studi de Genova by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio and Luca Oneto.
