@@ -1,0 +1,69 @@
+Variable	Desciption
+subject	Reference Number Subject
+activity	Activity
+tBodyAcc.mean...X	Body Accleration - Mean - X
+tBodyAcc.mean...Y	Body Accleration - Mean - Y
+tBodyAcc.mean...Z	Body Accleration - Mean - Z
+tBodyAcc.std...X	Body Accleration - Standard Deviation - X
+tBodyAcc.std...Y	Body Accleration - Standard Deviation - Y
+tBodyAcc.std...Z	Body Accleration - Standard Deviation - Z
+tGravityAcc.mean...X	Gravity Accleration - Mean - X
+tGravityAcc.mean...Y	Gravity Accleration - Mean - Y
+tGravityAcc.mean...Z	Gravity Accleration - Mean - Z
+tGravityAcc.std...X	Gravity Accleration - Standard Deviation - X
+tGravityAcc.std...Y	Gravity Accleration - Standard Deviation - Y
+tGravityAcc.std...Z	Gravity Accleration - Standard Deviation - Z
+tBodyAccJerk.mean...X	Body Accleration Time Derivative - Mean - X
+tBodyAccJerk.mean...Y	Body Accleration Time Derivative - Mean - Y
+tBodyAccJerk.mean...Z	Body Accleration Time Derivative - Mean - Z
+tBodyAccJerk.std...X	Body Accleration Time Derivative - Standard Deviation - X
+tBodyAccJerk.std...Y	Body Accleration Time Derivative - Standard Deviation - Y
+tBodyAccJerk.std...Z	Body Accleration Time Derivative - Standard Deviation - Z
+tBodyGyro.mean...X	Body Angular Velocity - Mean - X
+tBodyGyro.mean...Y	Body Angular Velocity - Mean - Y
+tBodyGyro.mean...Z	Body Angular Velocity - Mean - Z
+tBodyGyro.std...X	Body Angular Velocity - Standard Deviation - X
+tBodyGyro.std...Y	Body Angular Velocity - Standard Deviation - Y
+tBodyGyro.std...Z	Body Angular Velocity - Standard Deviation - Z
+tBodyGyroJerk.mean...X	Body Angular Velocity Time Derivative - Mean - X
+tBodyGyroJerk.mean...Y	Body Angular Velocity Time Derivative - Mean - Y
+tBodyGyroJerk.mean...Z	Body Angular Velocity Time Derivative - Mean - Z
+tBodyGyroJerk.std...X	Body Angular Velocity Time Derivative - Standard Deviation - X
+tBodyGyroJerk.std...Y	Body Angular Velocity Time Derivative - Standard Deviation - Y
+tBodyGyroJerk.std...Z	Body Angular Velocity Time Derivative - Standard Deviation - Z
+tBodyAccMag.mean..	Body Acceleration Magnitude - Mean
+tBodyAccMag.std..	Body Acceleration Magnitude - Standard Deviation
+tGravityAccMag.mean..	Gavity Accleration Magnitude - Mean
+tGravityAccMag.std..	Gravity Accleration Magnitude - Standard Deviation
+tBodyAccJerkMag.mean..	Body Acceleration Magnitude Time Derivative - Mean
+tBodyAccJerkMag.std..	Body Acceleration Magnitude Time Derivative - Standard Deviation
+tBodyGyroMag.mean..	Body Angular Velocity Magnitude - Mean
+tBodyGyroMag.std..	Body Angular Velocity Magnitude - Standard Deviation
+tBodyGyroJerkMag.mean..	Body Angular Velocity Time Derivative Magnitude - Mean
+tBodyGyroJerkMag.std..	Body Angular Velocity Time Derivative magnitude - Standard Deviation
+fBodyAcc.mean...X	FFT - Body Accleration - Mean - X
+fBodyAcc.mean...Y	FFT - Body Accleration - Mean - Y
+fBodyAcc.mean...Z	FFT - Body Accleration - Mean - Z
+fBodyAcc.std...X	FFT - Body Accleration - Standard Deviation - X
+fBodyAcc.std...Y	FFT - Body Accleration - Standard Deviation - Y
+fBodyAcc.std...Z	FFT - Body Accleration - Standard Deviation - Z
+fBodyAccJerk.mean...X	FFT - Body Accleration Time Derivative - Mean - X
+fBodyAccJerk.mean...Y	FFT - Body Accleration Time Derivative - Mean - Y
+fBodyAccJerk.mean...Z	FFT - Body Accleration Time Derivative - Mean - Z
+fBodyAccJerk.std...X	FFT - Body Accleration Time Derivative - Standard Deviation - X
+fBodyAccJerk.std...Y	FFT - Body Accleration Time Derivative - Standard Deviation - Y
+fBodyAccJerk.std...Z	FFT - Body Accleration Time Derivative - Standard Deviation - Z
+fBodyGyro.mean...X	FFT - Body Angular Velocity - Mean - X
+fBodyGyro.mean...Y	FFT - Body Angular Velocity - Mean - Y
+fBodyGyro.mean...Z	FFT - Body Angular Velocity - Mean - Z
+fBodyGyro.std...X	FFT - Body Angular Velocity - Standard Deviation - X
+fBodyGyro.std...Y	FFT - Body Angular Velocity - Standard Deviation - Y
+fBodyGyro.std...Z	FFT - Body Angular Velocity - Standard Deviation - Z
+fBodyAccMag.mean..	FFT - Body Acceleration Magnitude - Mean
+fBodyAccMag.std..	FFT - Body Acceleration Magnitude - Standard Deviation
+fBodyBodyAccJerkMag.mean..	FFT - Body Acceleration Time Derivative Magnitude - Mean (note that Body is repeated in the original data)
+fBodyBodyAccJerkMag.std..	FFT - Body Acceleration Time Derivative Magnitude - Standard Deviation (note that Body is repeated in the original data)
+fBodyBodyGyroMag.mean..	FFT - Body Angular Velocity Magnitude - Mean (note that Body is repeated in the original data)
+fBodyBodyGyroMag.std..	FFT - Body Angular Velocity Magnitude - Standard Deviation (note that Body is repeated in the original data)
+fBodyBodyGyroJerkMag.mean..	FFT - Body Angular Velocity Time Derivative Magnitude - Mean (note that Body is repeated in the original data)
+fBodyBodyGyroJerkMag.std..	FFT - Body Angular Velocity Time Derivative Magnitude - Standard Deviation (note that Body is repeated in the original data)
