@@ -5,7 +5,7 @@ Version 1.0
 ==============================================
 
 
-### OVERVIEW
+#### OVERVIEW
 The original experiments for this data set were conducted at the Non Linear Complex Systems Laboatory of DITEN - Universita degli Studi de Genova by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio and Luca Oneto.
 
 The goal of this work is to create a classification algorithm which can determine the activity in which a cellphone user is engaged by examining readings from the cellphone's accelerometer and gyroscope.  To create the data set, 30 subjects have been engaged in 6 specific activities while wearing their cellphones.  The accelromeer and gyroscope tracks were then analyzed to create a signature for each activity.  The data was then divided into training and test sets, the training set was used to train the algorithm and then the algorithm was used to identify activities from the test set.
@@ -55,7 +55,7 @@ The algorithm for preparing the data is called run_analysis.R.  This algorithm i
 4) Reshapes the data and creates tidy data form and then writes the output file
 
 
-#### Citation for Original Research
+#### CITATION FOR ORIGINAL RESEARCH
 
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
