@@ -1,8 +1,6 @@
-==============================================
-Mean and Standard Deviation Extraction for
-Human Activity Recognition Using Smartphones Dataset
-Version 1.0
-==============================================
+###Mean and Standard Deviation Extraction for
+###Human Activity Recognition Using Smartphones Dataset
+###Version 1.0
 
 
 #### OVERVIEW
