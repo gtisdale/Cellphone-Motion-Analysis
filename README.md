@@ -49,10 +49,16 @@ The data is provided in tidy data form with each row representing a subject and 
 
 #### DESCRIPTION OF PROCESSING ALGORITHM
 The algorithm for preparing the data is called run_analysis.R.  This algorithm is divided into for sections:
-1) Cleans up the environment and loads libraries.
-2) Loads the data.
-3) Extracts the specific data for this data set using the column numbers for the appropriate variables.
-4) Reshapes the data and creates tidy data form and then writes the output file
+1) *Clean up environment 
+   Cleans up the environment and loads libraries.
+2) *Load Data
+   Loads the data.  First paragraph loads the activity and feature labels.  
+   Second paragraph loads the test data and relabels the activities with text labels.
+   Third paragraph load the train data and relabels the activities with text labels.
+3) *Extract Data
+   Extracts the specific data for this data set using the column numbers for the appropriate variables.
+4) *Reshape Data
+   Reshapes the data and creates tidy data form and then writes the output file
 
 
 #### CITATION FOR ORIGINAL RESEARCH
