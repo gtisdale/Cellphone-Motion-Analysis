@@ -17,10 +17,15 @@ The experimental details are described in the original README.txt file attached 
 The data from this experiment consists of accelerometer and gyroscope data for each of the 30 subjects.  The subects were engaged in each of the following six activies:
 
 LAYING
+
 SITTING
+
 STANDING
+
 WALKING
+
 WALKING_DOWNSTAIRS
+
 WALKING_UPSTAIRS
 
 The data set exhibited here is a derivation of the orignal data set.  It include data for all 30 subjects performing each of the six activities. The variables include:
@@ -30,19 +35,33 @@ tBodyAcc-XYZ
 tGravityAcc-XYZ
 
 tBodyAccJerk-XYZ
+
 tBodyGyro-XYZ
+
 tBodyGyroJerk-XYZ
+
 tBodyAccMag
+
 tGravityAccMag
+
 tBodyAccJerkMag
+
 tBodyGyroMag
+
 tBodyGyroJerkMag
+
 fBodyAcc-XYZ
+
 fBodyAccJerk-XYZ
+
 fBodyGyro-XYZ
+
 fBodyAccMag
+
 fBodyBodyAccJerkMag
+
 fBodyBodyGyroMag
+
 fBodyBodyGyroJerkMag
 
 Only the mean and standard deviation have been retained for each variable.  A detailed description of each variable may be found in CodeBook.txt.
