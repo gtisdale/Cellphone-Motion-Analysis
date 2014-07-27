@@ -25,8 +25,10 @@ WALKING_UPSTAIRS
 
 The data set exhibited here is a derivation of the orignal data set.  It include data for all 30 subjects performing each of the six activities. The variables include:
 
-######tBodyAcc-XYZ
-######tGravityAcc-XYZ
+tBodyAcc-XYZ
+
+tGravityAcc-XYZ
+
 tBodyAccJerk-XYZ
 tBodyGyro-XYZ
 tBodyGyroJerk-XYZ
